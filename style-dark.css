@@ -1,0 +1,17 @@
+body {
+    background-color: #333;
+    color: #f2f2f2;
+  }
+
+h1 { 
+    border-bottom-style: inset;
+}
+
+.tarefa-selecionada { 
+    color: red; 
+    font-style: italic; 
+}
+
+.tarefa-normal {
+     color: black; 
+}
